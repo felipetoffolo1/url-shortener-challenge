@@ -5,6 +5,7 @@ This project is a example React/Redux App to make short URL
 ## Technical Features:
 * Use Google API
 * React/Redux
+* Redux Thunk Middleware
 * Ui with Bulma
 * Validation with prop-types
 
